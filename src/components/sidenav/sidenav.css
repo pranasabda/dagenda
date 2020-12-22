@@ -1,0 +1,28 @@
+.side-nav {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
+    padding:20px ;
+    background-color: #ffffff;
+    width:200px; 
+    justify-content: space-between;
+}
+
+.signature{
+    left: 20px;
+    top: 906px;
+    font-family: 'Poppins';
+    font-size: 8;
+}
+
+a:hover{
+    color:#E42313;
+}
+
+.navMenu {}
+
+/* 
+Note: Prana 
+Flexbox Tricks
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
+*/
